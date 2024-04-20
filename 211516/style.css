@@ -1,0 +1,109 @@
+body {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.topnavigation {
+    background-image: url("photos/navigation-background.jpg");
+    height: 30px;
+    margin-top: 45px;
+    margin-bottom: 80px;
+}
+.leaf{
+    position: absolute;
+    top: 4px;
+}
+
+.topnavigation li{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    margin:0;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+    text-align: center;
+}
+.topnavigation a{
+    color: white;
+    text-decoration: none;
+}
+
+.topnavigation ul {
+    margin-left: 120px;
+    padding: 4px;
+}
+
+section{
+    margin: 0 0 0 5px;
+}
+
+.homeheader{
+    color: #92CD00;
+    text-align: center;
+}
+
+.gearpic{
+    float: right;
+    margin: 0 0 10px 2px ;
+    width: 400px;
+    height: 280px;
+}
+
+.webdesignpic{
+    float:right;
+    margin: 10px 0 0 0;
+    width: 400px;
+    height: 250px;
+}
+
+.orderedlist{
+    height: 420px;
+}
+
+.orderedlist li{
+    color:  #192402;
+    text-align: justify;
+}
+dl {
+    text-align: justify;
+    color: #192402;
+}
+.coloredpic{
+    float:right;
+    margin:0 1px 0 5px ;
+    width: 400px;
+    height: 250px;
+}
+.wwwpic{
+    float:right;
+    width: 400px;
+    height: 200px;
+}
+.computer{
+    float:right;
+    width: 400px;
+    height: 300px;
+}
+
+.hometext{
+    height: 420px;
+    color: #192402;
+    text-align: left;
+}
+
+.paragraph1{
+    text-align: justify;
+}
+
+.kontakt{
+    background: yellow;
+}
+footer{
+    background-color: #81b518;
+    height: 30px;
+    color: #ffffff;
+    text-align: center;
+}
